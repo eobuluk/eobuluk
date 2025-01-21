@@ -13,8 +13,9 @@ Passionate about using data to drive change, I am eager to apply my skills to ne
 ## 📈 **Data Analysis Projects:**
 
 
-### Python
+### Python Projects
 - **[RMNCH Data Analysis](https://github.com/eobuluk/RMNCH-Data-Processing-)**: Refining Reproductive, Maternal, Newborn, and Child Health (RMNCH) Data: Cleaning and Preprocessing for Accurate Maternal and Child Health Insights.
+- **[Exploratory Data Analysis of Maternal and Child Health Data](https://github.com/eobuluk/Exploratory-Data-Analysis-of-RMNCH-Data)**: Exploratory Data Analysis of Maternal and Child Health Data collected from health facilities in 18 districts in southwest Uganda.
 
 
 ### SQL
