@@ -20,7 +20,7 @@ Passionate about using data to drive change, I am eager to apply my skills to ne
 
 ### SQL
 - **[Database for RMNCH Indicators](#)**: Efficient database for querying health indicators.
-- **[Project Title 4](#)**: Brief description.
+
 
 ### Excel Dashboards
 - **[RMNCH Excel Dashboard](#)**: Visualized health indicators with KPIs, trends, and district comparisons.
