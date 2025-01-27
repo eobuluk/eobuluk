@@ -1,4 +1,4 @@
-# Hi, I'm Edgar Obuluk, a data analytics professional passionate about translating data into actionable insights! 👋
+# Hi, I'm Edgar Obuluk, a data analytics professional passionate about translating data into actionable insights! 
 
 I am a results-oriented data analytics and information management professional with 7 years of experience in data analytics, health informatics, and monitoring and evaluation for large-scale development projects funded by USAID, PEPFAR, CDC, and UNICEF. I specialize in analyzing complex data to generate actionable insights that drive data-informed decision-making.
 
@@ -19,22 +19,17 @@ Passionate about using data to drive change, I am eager to apply my skills to ne
 - **[Trends in Maternal and Child Health in Southwest Uganda](https://github.com/eobuluk/RMNCH-Data-Analysis-Trends-in-Maternal-and-Child-Health-in-Southwest-Uganda)**: Analysis of the Trends in Maternal and Child Health in Southwest Uganda
 - **[Analysis of HIV Viral Load Status of Children and Adolescents (0-19 years) in South West Uganda: Insights and Recommendations](https://github.com/eobuluk/Data-Driven-Analysis-of-HIV-Care-and-Treatment-Services-for-Children-and-Adolescents-0-19-years-in)**: Analysis of HIV Viral Load Status of Children and Adolescents (0-19 years) in South West Uganda: Insights and Recommendations
 
-### SQL
-- **[Database for RMNCH Indicators](#)**: Efficient database for querying health indicators.
-
-
-### Excel Dashboards
-- **[RMNCH Excel Dashboard](#)**: Visualized health indicators with KPIs, trends, and district comparisons.
+### Interactive Dashboards
+- **[RMNCH Dashboard](https://github.com/eobuluk/Interactive-RMNCH-Dashboard)**: Visualized critical health indicators, trends in maternal and child health, and district comparisons. 
 
 ---
 
-## 🏅 **Certifications**:
-- Python Programming (CS50 by Harvard University)
-- SQL Fundamentals (Platform Name)
-- [Add more certifications]
-
----
+## 🏅 **Professional Certifications**:
+- Python Programming (CS50's Introduction to Programming with Python by Harvard University)
+- Data Analytics Certificate (Data Analytics for All – four-week (40+ hours) curriculum on data modeling, SQL, visualization, and reporting)
+- GIS Mapping (Certificate in Geographic Information Systems by the Environmental Systems Research Institute)
 
 ## 🤳 **Connect with Me**:
-- [LinkedIn](https://www.linkedin.com/in/JohnDoe)
-- [Twitter](https://twitter.com/JohnDoe)
+- [LinkedIn](https://www.linkedin.com/in/edgar-obuluk/)
+- [GitHub](https://github.com/eobuluk)
+- [Global Health Corps](https://ghcorps.org/author/edgar-obuluk/)
