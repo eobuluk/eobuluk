@@ -1,4 +1,4 @@
-# Hi, I'm Edgar Obuluk, a Data Analytics professional passionate about translating data into actionable insights! 
+# Hi, I am Edgar Obuluk, a Data Analytics professional passionate about translating data into actionable insights! 
 
 I am a results-oriented data analytics and information management professional with 7 years of experience in data analytics, health informatics, and monitoring and evaluation for large-scale development projects funded by USAID, PEPFAR, CDC, and UNICEF. I specialize in analyzing complex data to generate actionable insights that drive data-informed decision-making.
 
