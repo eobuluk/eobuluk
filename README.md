@@ -24,6 +24,7 @@ Passionate about using data to drive change, I am eager to apply my skills to ne
 
 ### Health Informatics and Analytics
 - **[Transition to Health Information Exchange (HIE)](https://github.com/eobuluk/Health-Information-Exchange-HIE-)**: Facility Readiness Assessment to Transition to Health Information Exchange (HIE) and Paperless Viral Load Requests.
+- **[Health Information Systems Optimization](https://github.com/eobuluk/Health-Information-Systems-Optimization)**: Optimization of the Electronic Medical Records (EMR) Point of Care System at Health Facilities in Uganda.
 
 ---
 
