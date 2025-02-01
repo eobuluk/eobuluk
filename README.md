@@ -20,7 +20,10 @@ Passionate about using data to drive change, I am eager to apply my skills to ne
 - **[Analysis of HIV Viral Load Status of Children and Adolescents (0-19 years) in South West Uganda: Insights and Recommendations](https://github.com/eobuluk/Data-Driven-Analysis-of-HIV-Care-and-Treatment-Services-for-Children-and-Adolescents-0-19-years-in)**: Analysis of HIV Viral Load Status of Children and Adolescents (0-19 years) in South West Uganda: Insights and Recommendations
 
 ### Interactive Dashboards
-- **[RMNCH Dashboard](https://github.com/eobuluk/Interactive-RMNCH-Dashboard)**: Visualized critical health indicators, trends in maternal and child health, and district comparisons. 
+- **[RMNCH Dashboard](https://github.com/eobuluk/Interactive-RMNCH-Dashboard)**: Visualized critical health indicators, trends in maternal and child health, and district comparisons.
+
+### Health Informatics and Analytics
+- **[Transition to Health Information Exchange (HIE)](https://github.com/eobuluk/Health-Information-Exchange-HIE-)**: Facility Readiness Assessment to Transition to Health Information Exchange (HIE) and Paperless Viral Load Requests.
 
 ---
 
